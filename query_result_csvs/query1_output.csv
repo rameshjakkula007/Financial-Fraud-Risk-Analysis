@@ -1,0 +1,4 @@
+"account_type","total_transactions","fraud_cases","fraud_rate_pct","total_fraud_exposure"
+"Savings",503,100,19.88,1056564.51
+"Current",298,46,15.44,580589.98
+"Credit Card",199,42,21.11,425340.64

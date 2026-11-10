@@ -1,0 +1,5 @@
+"channel","total_volume","fraud_count","avg_transaction_value"
+"ATM",250,53,5129.31
+"Mobile App",231,52,5527.73
+"POS Terminal",258,47,5254.40
+"Net Banking",261,36,4868.59
